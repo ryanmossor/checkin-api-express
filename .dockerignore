@@ -1,0 +1,10 @@
+**/build
+**/dist
+**/node_modules/
+/scripts
+/volumes
+
+*.md
+.git
+.gitignore
+npm-debug.log
